@@ -1,0 +1,6 @@
+package enums;
+
+public enum ChangeType
+{
+    MOLD_CHANGE, TILE_CHANGE, FLANK_CHANGE, NEW_DIMENSION, SANDBLASTING, MOLD_FIX
+}

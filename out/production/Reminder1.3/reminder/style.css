@@ -1,0 +1,7 @@
+.column{
+    -fx-alignment: "CENTER";
+}
+TextArea{
+    -fx-text-fill: "#0B0790";
+    -fx-font-size: 14;
+}
