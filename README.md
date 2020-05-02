@@ -1,5 +1,5 @@
 # Reminder
-JavaFX application. The application is made for a factory that makes tires for cars.
+JavaFX application. The application is made for a factory which makes tires for cars.
 
 Project’s requirements: Any Java IDE and JDK 8.
 
